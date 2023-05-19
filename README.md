@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on updating my [Parstagram Project]([https://link-url-here.org](https://github.com/NathanGIreland/Pocketgram)
+- 🔭 I’m currently working on updating my <a href="https://link-url-here.org](https://github.com/NathanGIreland/Pocketgram">Parstagram</a>
 - 💬 Ask me about any of my projects I've worked on!
-
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/
-nathangireland
 
 "
