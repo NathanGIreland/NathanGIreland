@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello 👋🏾
 
 <!--
 **NathanGIreland/NathanGIreland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on updating my [Parstagram Project]([https://link-url-here.org](https://github.com/NathanGIreland/Pocketgram)
+- 💬 Ask me about any of my projects I've worked on!
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/
+nathangireland
+
+"
