@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on updating my <a href="https://link-url-here.org](https://github.com/NathanGIreland/Pocketgram">Parstagram</a>
-- 💬 Ask me about any of my projects I've worked on!
+- 🔭 I’m currently working on updating my instagram clone app <a href="https://link-url-here.org](https://github.com/NathanGIreland/Pocketgram">Parstagram</a>
 
-"
