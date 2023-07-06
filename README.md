@@ -1,4 +1,4 @@
-# Hello 👋🏾
+# Hello 👋🏾!
 
 I am a passionate professional with a Bachelor of Science in Computer Science. Skilled in programming languages like Java, Swift, and JavaScript, with a strong foundation in key areas of Computer Science, including Object-Oriented Programming and Data Structures & Algorithms. Currently, I apply my skills as a Tech Consultant, helping businesses meet their needs. With a passion for technology, I am driven to make a positive impact with my work.
 
